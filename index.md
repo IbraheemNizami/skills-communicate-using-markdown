@@ -4,5 +4,5 @@
 #### Header 4
 ##### Header 5
 ###### Header 6
-####### Header 7
 Description of changes!
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
